@@ -1,0 +1,57 @@
+[	
+	{
+		"name": "Everest",
+		"unitType": "Close Range Mech",
+		"uniqueTo": "Union",
+		"movement": 5,
+		"requiredTech": "Fusion Power",
+		"strength": 55,
+		"cost": 450,
+		"uniques": ["Mech", "[-50]% Strength <vs cities> <when attacking>", "Only available <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [1] [Ulframite]", "Never appears as a Barbarian unit", "Can move after attacking", "Cannot be purchased", "[+5]% Strength bonus for [Military] units within [1] tiles"], 
+		"attackSound": "tankshot"
+	},
+{
+		"name": "Imperial Guard",
+		"replaces": "Laser Trooper",
+		"uniqueTo": "Imperium of Man",
+		"unitType": "Sniper",
+		"movement": 2,
+		"range": 2,
+		"strength": 28,
+		"rangedStrength": 36,
+		"cost": 175,
+		"requiredTech": "Lasers",
+		"uniques": [
+			"Ranged attacks may be performed over obstacles",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "SingleLaser",
+			},
+{
+		"name": "Space Marine",
+		"unitType": "Infantry",
+		"replaces": "Drop Trooper",
+		"uniqueTo": "Imperium of Man",
+		"movement": 3,
+		"requiredTech": "Cybernetics",
+		"strength": 50,
+		"cost": 600,
+		"promotions": ["Charge", "Armor Plating I"],
+		"uniques": ["Never appears as a Barbarian unit", "May Paradrop up to [6] tiles from inside friendly territory", "Limited to [3] per Civilization"], 
+		"attackSound": "tankshot"
+	},
+{
+		"name": "Helldiver",
+		"unitType": "Infantry",
+		"uniqueTo": "Super Earth",
+		"replaces": "Drop Trooper",
+		"movement": 4,
+		"requiredTech": "Lasers",
+		"strength": 35,
+		"cost": 170,
+		"uniques": ["Never appears as a Barbarian unit", "Can carry [1] [Missile] units", "May Paradrop up to [6] tiles from inside friendly territory", "[+20]% Strength <when attacking>"], 
+		"attackSound": "tankshot"
+	},
+
+]

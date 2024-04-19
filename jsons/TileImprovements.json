@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Hab-block",
+		"uniqueTo": "Imperium of Man",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 8,
+		"food": 1,
+		"uniques": ["Removes removable features when built","[+1 Food] <after discovering [Pioneer Administration]>", "[+1 Production] for each adjacent [City center]", "[+1 Production] <after discovering [Synthetic Materials]>"]
+	},
+]

@@ -1,0 +1,174 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Democracy Office
+  rotate: false
+  xy: 4, 251
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Freedom Living District
+  rotate: false
+  xy: 4, 43
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/GMS 3D Printer
+  rotate: false
+  xy: 1044, 351
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Golden Throne of The God Emperor of Mankind
+  rotate: false
+  xy: 212, 251
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Heroic Legacy
+  rotate: false
+  xy: 1152, 351
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Imperial Bastion
+  rotate: false
+  xy: 420, 43
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/NHP Assisted Training
+  rotate: false
+  xy: 628, 43
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Everest
+  rotate: false
+  xy: 4, 4
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Everest
+  rotate: false
+  xy: 4, 4
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Helldiver
+  rotate: false
+  xy: 944, 215
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helldiver
+  rotate: false
+  xy: 944, 215
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hab-block
+  rotate: false
+  xy: 212, 43
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Imperium of Man
+  rotate: false
+  xy: 1260, 351
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Super Earth
+  rotate: false
+  xy: 1476, 351
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Union
+  rotate: false
+  xy: 1584, 351
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Space Marine
+  rotate: false
+  xy: 1692, 423
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Space Marine
+  rotate: false
+  xy: 1692, 423
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hab-block
+  rotate: false
+  xy: 836, 99
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Imperial Guard
+  rotate: false
+  xy: 1044, 315
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Everest
+  rotate: false
+  xy: 836, 143
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Helldiver
+  rotate: false
+  xy: 420, 251
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Imperial Guard
+  rotate: false
+  xy: 628, 251
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Space Marine
+  rotate: false
+  xy: 1368, 351
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/NHP Co-pilot
+  rotate: false
+  xy: 836, 251
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
