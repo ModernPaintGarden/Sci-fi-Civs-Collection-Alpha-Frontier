@@ -88,7 +88,7 @@ To be a man in such times is to be one amongst untold billions. It is to live in
 		"outerColor": [55, 78, 99],
 		"innerColor": [217, 184, 0],
 		"uniqueName": "Managed Democracy",
-		"uniques" : ["[-15]% Culture cost of natural border growth [in all cities]", "Earn [15]% of killed [Military] unit's [Strength] as [Science]", "[+2 Happiness] [in all cities] <upon discovering [Research Networks]>"],
+		"uniques" : ["[-15]% Culture cost of natural border growth [in all cities]", "Earn [15]% of killed [Military] unit's [Strength] as [Science]", "[+2 Happiness] [in all cities] <upon discovering [Research Networks] technology>"],
 		"cities": ["Colony Headquarters", "Freedom", "Liberty", "Burger", "Democracy", "Hellcity Prime", "Malevelon Creek", "Yellow Glow", "Super Earth Mini", "Gunville",
 					"Freedom 2", "Liberty 2", "Cheeseburger", "Democracy Beta", "Alpha Macho", "Fortress Sigma", "Helltown Minor", "Outpost Redemption", "Super City", "Awesome River",
 					"Outpost Deathglance", "Elected Creek", "Freedom Dune", "Mega City", "Terra Prime"],
