@@ -33,9 +33,11 @@
 		"name": "GMS 3D Printer",
 		"uniqueTo": "Union",
 		"replaces": "Prefab Printer",
+		"specialistSlots": { "Engineer": 1 },
 		"production": 2,
 		"happiness": 1,
-		"maintenance": 2,
+		"maintenance": 1,
+		"percentStatBonus": { "production": 3 },
 		"hurryCostModifier": 25,
 		"uniques": ["[+20]% Production when constructing [Prefab] buildings [in this city]"],
 		"requiredTech": "Engineering"
