@@ -16,7 +16,7 @@
 		"outerColor": [165, 23, 23],
 		"innerColor": [245, 245, 245],
 		"uniqueName": "The Utopian Pillars",
-		"uniques" : ["[+1 Science] [in all cities] <when not at war>", "[+1 Happiness] [in all cities] <when not at war>", "[+1 Food] [in all cities] <when not at war>"],
+		"uniques" : ["[+1 Science] [in all cities] <when not at war>", "[+1 Happiness] [in all cities] <when not at war>", "[+1 Food] [in all cities] <when not at war>", "When declaring friendship, both parties gain a [5]% boost to great person generation",],
 		"cities": ["Cradle", "Luna", "Mars", "Andes", "Cressidium", "Dawnline Shore", "Rocky Mountain", "Kunlun", "Ural", "Atlas",
 					"Himalaya", "Altai", "Carpathian", "Sierra Madre", "Karakoram", "Cascade", "Annamite", "Boundary Garden", "Karakkis Prime", "Elbert",
 					"Lincoln", "Caslte Station", "Toubkal", "Cerro Gordo", "Rainier Station"],
